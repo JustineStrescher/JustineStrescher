@@ -41,6 +41,6 @@ Bonjour, je m'appelle Justine Strescher, passionnée d’informatique, initialem
 
 
 
-<p><img height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinestrescher&show_icons=true&theme=gotham" alt="justinestrescher" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinestrescher&show_icons=true&theme=gotham" alt="justinestrescher" /> </p>
 
-<p> <img height="250" align="right" src="https://github-readme-stats.vercel.app/api?username=justinestrescher&show_icons=true&theme=gotham" alt="justinestrescher" /> </p>
+<p> <img  align="right" src="https://github-readme-stats.vercel.app/api?username=justinestrescher&show_icons=true&theme=gotham" alt="justinestrescher" /> </p>
