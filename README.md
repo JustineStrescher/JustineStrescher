@@ -5,8 +5,7 @@
   <img align="left" alt="JustineStrescher's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=justineStrescher.JusstineStrescher)
+![](https://visitor-badge.glitch.me/badge?page_id=justineStrescher.JustineStrescher)
 
 <br />
 
